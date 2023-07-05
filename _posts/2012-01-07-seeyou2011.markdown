@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "再见2011"
-date:  2011-01-07 13:40:52
+title:  "再见 2011"
+date:  2012-01-07 13:40:52
 categories: 大学小记
 tags: 大学小记
 typora-root-url: ../../halfcoffee
