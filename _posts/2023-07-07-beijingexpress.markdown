@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "《我在北京送快递》读后感"
-date:   2023-07-07 10:18:54
+title: "《我在北京送快递》读后感"
+date: 2023-07-07 10:18:54
 categories: 书评
 tags: 书评
 typora-root-url: ../../halfcoffee
@@ -90,7 +90,7 @@ typora-root-url: ../../halfcoffee
 
 
 
-## 装系统
+## 修电脑
 
 > “我是来无偿劳动的，所以没跟他客气”
 
