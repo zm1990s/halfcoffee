@@ -5,6 +5,7 @@ title:  "2014~2017 的一些项目"
 date:   2023-3-14 21:14:54
 categories: 毕业十年
 tags: 毕业十年
+typora-root-url: ../
 ---
 
 * content
@@ -41,7 +42,7 @@ tags: 毕业十年
 
 下图：*客户买的思科设备，做工精良*
 
-<img src="../pics/8310ab616f51ee4320ced5a0e5d06037.PNG"  style="zoom:50%;" />
+<img src="/pics/8310ab616f51ee4320ced5a0e5d06037.PNG"  style="zoom:50%;" />
 
 ## 某城商行核心 N7K 引擎扩容项目
 
