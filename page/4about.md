@@ -10,9 +10,11 @@ type: page
 {:toc}
 谨以此博客记录逝去的时光。
 
+历史，是检验进步的基线。
+
 ## 关于作者
 
-* 从网工逐渐走向系统工程师
+* 从网工逐渐走向系统工程师，再到...
 * 业余时间看看书、喝喝咖啡、看看电影、听听音乐
 * 热爱开源及知识共享
 
@@ -24,12 +26,12 @@ type: page
 
 ## 一些零碎的语录
 
-> Not every effort there is a harvest, but each time the harvest must be hard, which is not a fair irreversible propositions. 
+> Not every effort there is a harvest, but each time the harvest must be hard, which is not a fair irreversible proposition. 
 >
 > 不是每一次努力都会有收获，但是，每一次收获都必须努力，这是一个不公平的不可逆转的命题。
 
 
 
-> Look not mournfully into the Past,It comes not back again. Wisely improve the Present, It is thine. Go forth to meet the shadowy Future, without fear.
+> Look not mournfully into the Past, It comes not back again. Wisely improve the Present, It is thine. Go forth to meet the shadowy Future, without fear.
 >
 > 不要悲叹过去,它一去不返；明智地把握现在，它在你的掌握之中。怀着一颗勇敢的心 毫不畏惧 迎接那朦胧的未来。
