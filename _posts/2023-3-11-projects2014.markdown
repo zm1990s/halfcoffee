@@ -70,7 +70,7 @@ typora-root-url: ../
 
 下图：*每次到了兰州，都得来个拉面加个蛋*
 
-<img src="../pics/WX20230722-171309.jpg" alt="WX20230722-171309.jpg" style="zoom:50%;" />
+<img src="/pics/WX20230722-171309.jpg" alt="WX20230722-171309.jpg" style="zoom:50%;" />
 
 
 
@@ -197,7 +197,7 @@ VMware 原厂请到了前员工 T，T 是我刚入职时另一个小伙伴的堂
 
 下图：*客户现场外的夜景*
 
-<img src="../pics/WX20230722-171658.JPG" alt="WX20230722-171658" style="zoom:50%;" />
+<img src="/pics/WX20230722-171658.JPG" alt="WX20230722-171658" style="zoom:50%;" />
 
 
 
@@ -329,11 +329,11 @@ VMware 原厂请到了前员工 T，T 是我刚入职时另一个小伙伴的堂
 
 下图：在 V 记培训时丰盛的午饭*
 
-<img src="../pics/WX20230722-175658.jpg" alt="WX20230722-170817" style="zoom:50%;" />
+<img src="/pics/WX20230722-175658.jpg" alt="WX20230722-170817" style="zoom:50%;" />
 
 下图：*在毕业两年后重回母校*
 
-<img src="../pics/WX20230722-170817.jpg" alt="WX20230722-170817" style="zoom:50%;" />
+<img src="/pics/WX20230722-170817.jpg" alt="WX20230722-170817" style="zoom:50%;" />
 
 
 
@@ -431,7 +431,7 @@ VMware 原厂请到了前员工 T，T 是我刚入职时另一个小伙伴的堂
 
 下图：*客户现场外的天空，小地方天生有这种自然空旷的美*
 
-<img src="../pics/WX20230722-171123.jpg" alt="WX20230722-171123" style="zoom:50%;" />
+<img src="/pics/WX20230722-171123.jpg" alt="WX20230722-171123" style="zoom:50%;" />
 
 
 
@@ -465,7 +465,7 @@ VMware 原厂请到了前员工 T，T 是我刚入职时另一个小伙伴的堂
 
 下图：*割接后的清晨*
 
-<img src="../pics/WX20230722-175020.JPG" alt="IMG_0023.JPG" style="zoom:50%;" />
+<img src="/pics/WX20230722-175020.JPG" alt="IMG_0023.JPG" style="zoom:50%;" />
 
 
 
