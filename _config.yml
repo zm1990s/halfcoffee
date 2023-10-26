@@ -31,8 +31,8 @@ disqus_shortname: www-halfcoffee-com
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 5144642c008479ba4b602888ce103c61
-google_analytics_id: UA-89788456-1 # google 分析追踪id
+# baidu_tongji_id: 5144642c008479ba4b602888ce103c61
+#google_analytics_id: UA-89788456-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
