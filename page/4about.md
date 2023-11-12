@@ -35,3 +35,12 @@ type: page
 > Look not mournfully into the Past, It comes not back again. Wisely improve the Present, It is thine. Go forth to meet the shadowy Future, without fear.
 >
 > 不要悲叹过去,它一去不返；明智地把握现在，它在你的掌握之中。怀着一颗勇敢的心 毫不畏惧 迎接那朦胧的未来。
+
+
+
+## 友链
+
+[以梦为马，奔向远方](https://lhcy.org/)
+
+[https://lhcy.org/](https://lhcy.org/)
+
