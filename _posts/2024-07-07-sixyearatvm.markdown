@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "在 v 记这几年 "
+title:  "在 v 记这几年"
 date:   2024-07-07 11:11:11
 categories: 毕业十年
 tags: 毕业十年
