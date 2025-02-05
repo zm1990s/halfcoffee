@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "那些年得过的皮肤病"
-date:   2024-10-27 11:11:11
+date:   2025-01-27 11:11:11
 categories: 杂文
 tags: 杂文
 typora-root-url: ../../halfcoffee
@@ -42,3 +42,6 @@ typora-root-url: ../../halfcoffee
 
 不知道咋处理了，感觉先停掉所有外敷的，等湿疹好了再治其他的吧...
 
+---
+
+一周之后，身上的湿疹应该好了，然而胳膊上的还是红红很多片，很痒，也不知道是不是湿疹，继续用硫软膏吧。
