@@ -261,10 +261,53 @@ docker compose up -d
 
 
 
-## 实测 10 天
+## 策略记录
 
-结果：KamaFama_2 比较垃圾，两笔交易就亏损 -30%，这还是手动止损的情况下（默认 -25% 才止损）。
+### kamafama_2
 
-后面换官方示例的 Strategy003，没想到意外的稳定，10 天仅有三笔负的，赢率很高，打算再改小止损率（默认是 -10%，计划改到 -8%）
+运行约 18 天，一开始用的作者使用的币清单，亏损严重，于是换成了 volume 前 25，效果也一般，有些 Loss 损失很大，直接把之前的收益清零。**目前已放弃该策略。**
 
-![image-20250216205819287](/../wiki/pics/image-20250216205819287.png)
+```shell
+ Running Freqtrade 2025.1
+
+Running with 4xunlimited USDT on binance in spot markets, with Strategy KamaFama_2.
+
+Stoploss on exchange is disabled.
+
+Currently running, force entry: false
+
+Dry-Run
+
+Avg Profit -0.277% (∑ -23.025%) in 83 Trades, with an average duration of 8:02:42. Best pair: BNX/USDT.
+
+Bot start date: 2025-02-04 09:03:05 (UTC) First trade opened: 2025-02-04 21:11:17 (UTC) Last trade opened: 2025-02-22 02:40:09 (UTC)
+
+Profit factor: 0.42 Trading volume: 4431.301 USDT
+Metric	Value
+ROI closed trades	-33.189 USDT (0.12%)
+ROI all trades	-38.739 USDT (-0.28%)
+Total Trade count	83
+Bot started	2025-02-04 09:03:05
+First Trade opened	2025-02-04 21:11:17
+Latest Trade opened	2025-02-22 02:40:09
+Win / Loss	73 / 6
+Winrate	92.405%
+Expectancy (ratio)	-0.42 (-0.04)
+Avg. Duration	8:02:42
+Best performing	BNX/USDT: 3.16%
+Trading volume	4431.301 USDT
+Profit factor	0.42
+Max Drawdown	42.37% (44.657 USDT) from 2025-02-06 05:39:56 to 2025-02-08 14:05:09
+```
+
+![image-20250222115356150](/pics/image-20250222115356150.png)
+
+![image-20250222115404757](/pics/image-20250222115404757.png)
+
+### Diamond
+
+跑了两天全是亏损的，放弃
+
+### NFI5MOHO
+
+跑了一周左右亏损，放弃
