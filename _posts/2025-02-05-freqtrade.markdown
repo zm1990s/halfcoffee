@@ -261,6 +261,37 @@ docker compose up -d
 
 
 
+### stoploss 调整
+
+跑了两个月，突然发现策略的 stoploss 都没有生效（关闭的），于是参照官方文档调整了：
+
+```shell
+    # Optimal stoploss designed for the strategy
+    # This attribute will be overridden if the config file contains "stoploss"
+    # 修改默认止损从 -0.1 到 -0.08（-10%到-8%）
+    stoploss = -0.08
+
+    # Optimal timeframe for the strategy
+    timeframe = '5m'
+
+    # trailing stoploss
+    # 开启了 trailing_stop
+    trailing_stop = True
+    trailing_stop_positive = 0.01
+    trailing_stop_positive_offset = 0.02
+    
+    # Optional order type mapping
+    # 开启了stoploss_on_exchange，在下单后就设置止损策略
+    order_types = {
+        'entry': 'limit',
+        'exit': 'limit',
+        'stoploss': 'market',
+        'stoploss_on_exchange': True
+    }
+```
+
+trailing_stop 主要用于在盈利时调整止损比例，比如收益到 2%时，只要下跌 1% 就止损。这样可以尽可能锁住盈利。但缺点可能是交易更频繁。
+
 ## 策略记录
 
 ### kamafama_2
